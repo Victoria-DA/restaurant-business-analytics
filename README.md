@@ -17,7 +17,7 @@ The analysis covers a specific month with the following operational changes:
 ## 📈 Key Visualization: Donut Chart
 The chart below illustrates the "order share" of each unit. By using a donut chart with internal labels, the visualization remains clean and professional, allowing for immediate comparison between the locations.
 
-![Donut Chart - Restaurant Orders](grafico_rosca_pedidos.png)
+![Donut Chart - Restaurant Orders](grafico_rosca_pedidos.png.png)
 
 ## 💡 Insights
 The visualization clearly shows that while the **Main Restaurant** lost significant ground, the expansion of **Location 2** helped mitigate the overall impact on the network. This demonstrates the importance of location diversification in the food industry.
